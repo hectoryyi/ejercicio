@@ -4,3 +4,6 @@ Edad = int(input("Ingrese su edad"))
 Hobbie = str(input("Ingrese su hobbie"))
 Print(f"Me llamo {Nombre} tengo {Edad} y mi hobbie es {Hobbie}")
  # Se me ha olvidado poner el nombre y la descripción
+
+
+print("Soy un hacker")
